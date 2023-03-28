@@ -5,6 +5,8 @@ This is the main repo for the Rowan ECE Spring 2023 Class of Space Systems - ADC
 Run from desired directory:<br>
 git init <br>
 git clone https://github.com/JacobLeeNJ/SpaceSystemsADCS.git <br>
+git remote add origin  https://github.com/JacobLeeNJ/SpaceSystemsADCS.git <br>
+
 
 (You only have to run those two commands once, on intialization of git directory) <br>
 
