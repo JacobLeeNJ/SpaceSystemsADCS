@@ -16,6 +16,7 @@ Create new branch from main or other on github, then: <br>
 
 ### To pull new branches/update existing run: <br>
 git fetch <br>
+git pull <br>
 
 ### To switch branches run:<br>
 git checkout //BranchName// <br>
